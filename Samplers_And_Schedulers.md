@@ -67,3 +67,14 @@ Here's a comprehensive table combining samplers, suggested schedulers, step rang
 
 - **General-Purpose Use:** **Euler** with **Cosine scheduler** in 30–50 steps provides balanced, versatile results.  
   Example: "A futuristic cityscape at sunset with glowing lights and airships."
+
+---
+## Common Abbreviations:
+- **DPM**: Denoising Diffusion Probabilistic Model 
+- **SDE**: Stochastic Differential Equation
+- **LMS**: Laplacian Mean Squared
+- **PLMS**: Predictor-Corrector Langevin Monte Carlo
+- **DDIM**: Denoising Diffusion Implicit Model
+- **Heun**: Heun sampler, named after the Heun method for solving ordinary differential equations
+- **Euler**: Euler sampler, named after Leonhard Euler
+- **Karras**: Named after Tero Karras, a researcher who developed optimized noise schedules for diffusion models
