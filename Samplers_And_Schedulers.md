@@ -32,11 +32,7 @@ Now imagine you give the artist instructions on how to pace their work. This is 
 ### How They Work Together
 The **sampler** is like picking the artist (style), and the **scheduler** is like giving them a plan for how to pace their work. By choosing the right combination, you can control how the final "painting" (your generated image) looks—whether it’s fast, detailed, smooth, or abstract.
 
-
 Here's a comprehensive table combining **samplers**, **suggested schedulers**, **step ranges**, and their **recommended use cases** for Stable Diffusion models:
-
----
-Here's a comprehensive table combining samplers, suggested schedulers, step ranges, and their recommended use cases for Stable Diffusion models:
 
 | **Sampler**          | **Suggested Scheduler(s)**  | **Step Range**  | **Strengths**                                                              | **Recommended Use Cases**                                                  |
 |-----------------------|-----------------------------|-----------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
